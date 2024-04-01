@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 
-int main(){
-		
+int main(){	
 	int l = 0;
 	int c = 0;
 	int i = 0;
