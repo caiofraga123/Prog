@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+
 int main(){
-	
+		
 	int l = 0;
 	int c = 0;
 	int i = 0;
@@ -13,8 +14,8 @@ int main(){
 	scanf("%d %d", &l, &c);
 
 	
-	for (i = 0; i<c; i++){
-		for(j = 0; j<l; j++){
+	for (i = 0; i<l; i++){
+		for(j = 0; j<c; j++){
 			scanf("%d", &atual);
 			soma += atual;
 		}
