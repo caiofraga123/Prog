@@ -26,7 +26,7 @@ int main(){
         cont += 1;
         soma += numero;
         media = soma/cont;
-        printf("%d  %.6f\n", maior, media);
+        printf("%d %.6f\n", maior, media);
     }
     
     return 0;
