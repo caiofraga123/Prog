@@ -25,8 +25,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/caiof/Downloads/Prog/L2/L2_4",
-      "program": "c:/Users/caiof/Downloads/Prog/L2/L2_4/build/Debug/outDebug",
+      "cwd": "c:/Users/caiof/Downloads/Prog/L2/L2_6",
+      "program": "c:/Users/caiof/Downloads/Prog/L2/L2_6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
